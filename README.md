@@ -1,9 +1,5 @@
 # Stable Diffusion 3 Discord Bot
 
-![License](https://img.shields.io/github/license/RocketGod-git/stable-diffusion-3-discord-bot)
-![Stars](https://img.shields.io/github/stars/RocketGod-git/stable-diffusion-3-discord-bot)
-![Issues](https://img.shields.io/github/issues/RocketGod-git/stable-diffusion-3-discord-bot)
-
 A Discord bot for generating images using Stable Diffusion 3.
 
 ## Features
