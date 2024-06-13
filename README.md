@@ -51,6 +51,6 @@ Help make this better! Submit a PR if you have an improvement.
 - [Huggingface](https://huggingface.co/)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-
+![image](https://github.com/RocketGod-git/stable-diffusion-3-discord-bot/assets/57732082/3ab6c2cc-48c7-4bad-808b-e6966552b950)
 
 ![RocketGod](https://github.com/RocketGod-git/Flipper_Zero/assets/57732082/f5d67cfd-585d-4b23-905f-37151e3d6a7d)
