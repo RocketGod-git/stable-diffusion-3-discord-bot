@@ -1,4 +1,4 @@
-# Stable Diffusion 3 Discord Bot
+# Stable Diffusion 3 - Discord Bot
 
 A Discord bot for generating images using Stable Diffusion 3.
 
