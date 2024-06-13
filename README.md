@@ -7,6 +7,11 @@ A Discord bot for generating images using Stable Diffusion 3.
 - Easy to set up and run.
 - Real-time interaction on Discord.
 
+## Prerequisites
+- Python
+- GPU with CUDA installed
+- Discord Developer account
+
 ## Setup
 
 1. Clone the repository:
@@ -28,6 +33,8 @@ A Discord bot for generating images using Stable Diffusion 3.
    ```bash
    sd3bot.bat
    ```
+
+4. Setup the bot in Discord Developer Portal. I can't help with this so you'll have to figure it out.
 
 ## Usage
 
